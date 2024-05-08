@@ -9,9 +9,9 @@
 
 </div>
 
-## Hi there 👋 Welcome to the SolaceSamples Github Organization! 
+## Welcome to the SolaceSamples Github Organization! 
 
-The SolaceSamples contains samples for developers to learn how to use the Solace APIs.
+SolaceSamples contains samples and code snippets for developers to learn how to use the Solace APIs and different message exchange patterns.
 
 **To get started:**
 
@@ -19,6 +19,6 @@ The SolaceSamples contains samples for developers to learn how to use the Solace
 
 🥳 Contribute to a project by opening a pull-request
 
-⚙️ Fix any issue or bug you can
+🪲 Fix any issue or bug you can
 
 🧙 If you have any questions, feel free to surf our [Solace Community Forum](https://solace.community/)
