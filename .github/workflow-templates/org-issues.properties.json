@@ -1,6 +1,0 @@
-{
-    "name": "Organization Issues Monitor",
-    "description": "Workflow that monitors issues across all organization repositories.",
-    "iconName": "ping.png",
-    "categories": ["automation", "issues"]
-}
