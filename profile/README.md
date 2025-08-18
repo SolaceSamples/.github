@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.solace.com">
-    <img src="/assets/Solace_Logo_Green.png" alt="Solace logo - Powering real-time Event-Driven Enterprises." />
+    <img src="/assets/Solace_Logo_Green_New.png" alt="Solace logo - Powering real-time Event-Driven Enterprises." />
   </a>
 </p>
 
