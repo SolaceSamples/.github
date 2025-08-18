@@ -1,4 +1,9 @@
-[![Solace logo - Powering real-time Event-Driven Enterprises.](/assets/Solace_Logo_Green.png)](https://www.solace.com)
+
+<p align="center">
+  <a href="https://www.solace.com">
+    <img src="/assets/Solace_Logo_Green.png" alt="Solace logo - Powering real-time Event-Driven Enterprises." />
+  </a>
+</p>
 
 <div align="center">
 
