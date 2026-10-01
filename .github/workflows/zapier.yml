@@ -12,7 +12,7 @@ jobs:
     if: github.event.repository.private == false
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3
         with:
           fetch-depth: 2  # To get the commit message from the last commit
 
@@ -28,7 +28,7 @@ jobs:
           echo "message=$COMMIT_MESSAGE" >> $GITHUB_OUTPUT
 
       - name: Send webhook
-        uses: distributhor/workflow-webhook@v3
+        uses: distributhor/workflow-webhook@2381f0e9c7b6bf061fb1405bd0804b8706116369 # v3
         with:
           webhook_url: ${{ secrets.ZAPIER_TWEET_URL }}
           webhook_secret: ${{ secrets.ZAPIER_TWEET_URL_SECRET }}
