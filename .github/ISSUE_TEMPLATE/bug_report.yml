@@ -32,9 +32,9 @@ body:
       label: Solace Product
       description: What Solace product is this directly affecting?
       options:
-        - Solace PubSub+ Event Portal
-        - Solace PubSub+ Event Broker
-        - Solace PubSub+ Insights
+        - Solace Event Portal
+        - Solace Event Broker
+        - Solace Insights
         - Solace APIs
         - Other
       default: 0
